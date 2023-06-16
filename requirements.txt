@@ -9,10 +9,9 @@ djangorestframework
 markdown       
 django-filter  
 drf-yasg
-drf-yasg
 drf-yasg[validation]
 djangorestframework-simplejwt
-####################################djoser
+##djoser
 ##django-cors-headers
 
 # deployment module

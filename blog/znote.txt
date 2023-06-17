@@ -1,7 +1,4 @@
 
-و قسمت فرانت قضیه هندل شود.
-
-
 # for docker
 core -> celery.py:
 #from git
